@@ -15,3 +15,4 @@ MonoBehaviour:
   locationName: Broken Castle
   locationImage: {fileID: 21300000, guid: 6cc33bfb9c7007b4ab4477788405a77d, type: 3}
   locationDescription: Cards Energy here reduced by 1.
+  locationScore: 10

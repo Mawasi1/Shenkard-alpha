@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Knight
   m_EditorClassIdentifier: 
   cardName: Knight
+  cardImage: {fileID: 0}
   cardDescription: Give 1 energy to cards  in this location.
-  cardCost: 1
+  cardCost: 2
   cardEnergy: 1
